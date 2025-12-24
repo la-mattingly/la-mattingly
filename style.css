@@ -30,7 +30,7 @@ nav a:hover {
 }
 
 .profile-photo {
-    max-width: 30px;
+    max-width: 80px;
     border-radius: 4px;
     display: block;
     margin: 20px 0;
