@@ -24,13 +24,12 @@ nav a:hover {
 }
 
 .container {
-    max-width: 1000px;
     margin: 10px auto;
     padding: 0 20px;
 }
 
 .profile-photo {
-    width: 400px;
+    width: 350px;
     float: left;
     margin: 0 20px 20px 0;
     border-radius: 4px;
