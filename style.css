@@ -34,3 +34,38 @@ nav a:hover {
     margin: 0 20px 20px 0;
     border-radius: 4px;
 }
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropbtn {
+    cursor: pointer;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f4f4f4;
+    min-width: 160px;
+    border: 1px solid #ddd;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    display: block;
+    padding: 8px 12px;
+    text-decoration: none;
+    color: #222;
+    font-weight: normal;
+}
+
+.dropdown-content a:hover {
+    background-color: #eaeaea;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
