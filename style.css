@@ -82,14 +82,14 @@ nav a:hover {
 }
 
 .headshot {
-    width: 200px;
+    width: 250px;
     float: left;
     margin: 0 20px 20px 0;
     border-radius: 4px;
 }
 
 .MCAT_score {
-    width: 400px;
+    width: 600px;
     float: right;
     margin: 0 0 20px 20px;
     border-radius: 4px;
