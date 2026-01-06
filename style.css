@@ -98,5 +98,25 @@ nav a:hover {
 .clear {
     clear: both;
 }
+.contact-links {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+}
+
+.contact-links p {
+    margin: 10px 0;
+    font-size: 1rem;
+}
+
+.contact-links a {
+    color: #1a4fb3;
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+.contact-links a:hover {
+    text-decoration: underline;
+}
 
 
